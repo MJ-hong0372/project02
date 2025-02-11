@@ -9,10 +9,10 @@
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=652EA8&width=435&lines=Welcome+to+Second+Project!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&pause=1000&color=35e0f7&width=435&lines=Team+Manager+is+Hongminju)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&pause=1000&color=35e0f7&width=435&lines=Team+Member+is+kim)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&pause=1000&color=35e0f7&width=435&lines=Team+Member+is+kim)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&pause=1000&color=35e0f7&width=435&lines=Team+Member+is+kim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&pause=1000&color=35e0f7&width=435&lines=Project+Manager+is+Hongminju)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&pause=1000&color=35e0f7&width=435&lines=Project+Member+is+kim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&pause=1000&color=35e0f7&width=435&lines=Project+Member+is+kim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&pause=1000&color=35e0f7&width=435&lines=Project+Member+is+kim)](https://git.io/typing-svg)
 
 
 <p fontSize:25;>This Project is about K-Culture.</p>
