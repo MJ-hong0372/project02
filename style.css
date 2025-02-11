@@ -21,8 +21,160 @@ html body {
 }
 
 /* color */
-/* content */
-h1 {
-  color: #fff;
+body {
+  font-size: 1.6rem;
+  height: 100vh;
   background: #000;
+}
+
+/* content */
+.gruop1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 5%;
+}
+.gruop1 h1 {
+  width: 100px;
+  text-align: center;
+  background: #652ea8;
+  color: #fff;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.gruop1 button {
+  padding: 10px 40px;
+  background: #652ea8;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.gruop2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.gruop2 h1 {
+  width: 100px;
+  text-align: center;
+  background: #39ff14;
+  color: #fff;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.gruop2 button {
+  padding: 10px 40px;
+  background: #39ff14;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.gruop3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.gruop3 h1 {
+  width: 100px;
+  text-align: center;
+  background: #0000ff;
+  color: #fff;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.gruop3 button {
+  padding: 10px 40px;
+  background: #0000ff;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.gruop4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.gruop4 h1 {
+  width: 100px;
+  text-align: center;
+  background: #fff700;
+  color: #000;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.gruop4 button {
+  padding: 10px 40px;
+  background: #fff700;
+  color: #000;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.gruop5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.gruop5 h1 {
+  width: 100px;
+  text-align: center;
+  background: #00fffb;
+  color: #000;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.gruop5 button {
+  padding: 10px 40px;
+  background: #00fffb;
+  color: #000;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.gruop6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.gruop6 h1 {
+  width: 100px;
+  text-align: center;
+  background: #ff0037;
+  color: #000;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.gruop6 button {
+  padding: 10px 40px;
+  background: #ff0037;
+  color: #000;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.4rem;
+  font-weight: bold;
 }
