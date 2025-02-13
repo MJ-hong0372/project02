@@ -1,8 +1,154 @@
 @import "./style/reset.scss";
 @import "./style/variables.scss";
 
-/* content */
-h1 {
-  color: map-get($map: $color, $key: main-light-color);
+body {
+  font-size: 1.6rem;
+  height: 100vh;
   background: map-get($map: $color, $key: main-dark-color);
+}
+/* content */
+.gruop1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 5%;
+  h1 {
+    width: 100px;
+    text-align: center;
+    background: map-get($map: $color, $key: btnBg1);
+    color: map-get($map: $color, $key: main-light-color);
+    margin-bottom: 10px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  button {
+    padding: 10px 40px;
+    background: map-get($map: $color, $key: btnBg1);
+    color: map-get($map: $color, $key: main-light-color);
+    border: none;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+}
+.gruop2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  h1 {
+    width: 100px;
+    text-align: center;
+    background: map-get($map: $color, $key: btnBg2);
+    color: map-get($map: $color, $key: main-light-color);
+    margin-bottom: 10px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  button {
+    padding: 10px 40px;
+    background: map-get($map: $color, $key: btnBg2);
+    color: map-get($map: $color, $key: main-light-color);
+    border: none;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+}
+.gruop3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  h1 {
+    width: 100px;
+    text-align: center;
+    background: map-get($map: $color, $key: btnBg3);
+    color: map-get($map: $color, $key: main-light-color);
+    margin-bottom: 10px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  button {
+    padding: 10px 40px;
+    background: map-get($map: $color, $key: btnBg3);
+    color: map-get($map: $color, $key: main-light-color);
+    border: none;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+}
+.gruop4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  h1 {
+    width: 100px;
+    text-align: center;
+    background: map-get($map: $color, $key: btnBg4);
+    color: map-get($map: $color, $key: main-dark-color);
+    margin-bottom: 10px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  button {
+    padding: 10px 40px;
+    background: map-get($map: $color, $key: btnBg4);
+    color: map-get($map: $color, $key: main-dark-color);
+    border: none;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+}
+.gruop5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  h1 {
+    width: 100px;
+    text-align: center;
+    background: map-get($map: $color, $key: btnBg5);
+    color: map-get($map: $color, $key: main-dark-color);
+    margin-bottom: 10px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  button {
+    padding: 10px 40px;
+    background: map-get($map: $color, $key: btnBg5);
+    color: map-get($map: $color, $key: main-dark-color);
+    border: none;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+}
+.gruop6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  h1 {
+    width: 100px;
+    text-align: center;
+    background: map-get($map: $color, $key: btnBg6);
+    color: map-get($map: $color, $key: main-dark-color);
+    margin-bottom: 10px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  button {
+    padding: 10px 40px;
+    background: map-get($map: $color, $key: btnBg6);
+    color: map-get($map: $color, $key: main-dark-color);
+    border: none;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
 }
